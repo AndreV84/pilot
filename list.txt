@@ -1,0 +1,9 @@
+The I/Os that we want are:
+PCIe - X16 x8 PCIe Gen4/x8 SLVS-EC
+RJ45 - Gigabit Ethernet
+2x USB 3.1 (Type USB-C)
+HDMI Type A - HDMI 2.0
+M.2 Key E - PCIe x1 + USB 2.0 + UART (for Wi-Fi/LTE) / I2S / PCM
+SD Card
+Power (5.0V)
+Power (9V to 20V)
